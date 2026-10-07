@@ -14,9 +14,9 @@ This is our public technical workspace: specifications, working group publicatio
 
 | Area | What you can explore | Read or try | Repository |
 | --- | --- | --- | --- |
-| **Smart contract security** | EthTrust Security Levels: approved v3 specification and a separate v4 review draft | [Specifications & working group](https://entethalliance.github.io/wg-ethtrust-site/) | [Public feedback](https://github.com/EntEthAlliance/EthTrust-public) |
-| **Enterprise privacy** | Working group report mapping enterprise requirements to Ethereum privacy solutions | [Read the report](https://entethalliance.github.io/wg-privacy/privacy-report.html) | [Publication source](https://github.com/EntEthAlliance/wg-privacy) |
-| **Interoperability** | Crosschain working group publications and resources | [Explore the working group](https://entethalliance.github.io/crosschain-interoperability/) | [Publication source](https://github.com/EntEthAlliance/crosschain-interoperability) |
+| **Smart contract security** | EthTrust Security Levels: approved v3 specification and a separate v4 review draft | [Specifications & working group](https://hub.entethalliance.org/wg-ethtrust-site/) | [Public feedback](https://github.com/EntEthAlliance/EthTrust-public) |
+| **Enterprise privacy** | Working group report mapping enterprise requirements to Ethereum privacy solutions | [Read the report](https://hub.entethalliance.org/wg-privacy/privacy-report.html) | [Publication source](https://github.com/EntEthAlliance/wg-privacy) |
+| **Interoperability** | Crosschain working group publications and resources | [Explore the working group](https://hub.entethalliance.org/crosschain-interoperability/) | [Publication source](https://github.com/EntEthAlliance/crosschain-interoperability) |
 | **Tokenization R&D** | Shibui: experimental investor-eligibility verification using ERC-3643 and EAS | [Project overview](https://entethalliance.github.io/rnd-rwa-erc3643-eas/) | [Code & integration status](https://github.com/EntEthAlliance/rnd-rwa-erc3643-eas) |
 
 ### Research contributions
@@ -27,7 +27,7 @@ This is our public technical workspace: specifications, working group publicatio
 
 - **Review a specification:** start with the [EthTrust public comment channel](https://github.com/EntEthAlliance/EthTrust-public) or [DLT interoperability feedback repository](https://github.com/EntEthAlliance/wg-dlt-interop). Follow the repository's submission rules and participation requirements.
 - **Contribute to a project:** read its README, current status and contribution guidance, then check existing issues before proposing work.
-- **Work with peers:** explore [EEA membership](https://entethalliance.org/become-a-member/) and working group participation.
+- **Work with peers:** explore [EEA membership](https://entethalliance.org/membership/) and working group participation.
 
 ## Understand the status
 
@@ -35,4 +35,4 @@ This is our public technical workspace: specifications, working group publicatio
 
 Earlier projects remain available in the **[archive](https://github.com/orgs/EntEthAlliance/repositories?type=archived)** for historical reference.
 
-[Browse the project directory](https://github.com/EntEthAlliance/start-here) · [Contact EEA](https://entethalliance.org/contact/)
+[Browse the project directory](https://github.com/EntEthAlliance/start-here) · [Contact EEA](https://entethalliance.org/about/)
