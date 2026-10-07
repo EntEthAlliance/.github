@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<title id="title">Institutional Ethereum</title>
+<desc id="desc">Specifications, research and experiments. Enterprise Ethereum Alliance public technical workspace.</desc>
+<rect width="1200" height="260" fill="#EDEAE3"/>
+<rect x="36" y="34" width="1128" height="3" fill="#1F5C4A"/>
+<text x="36" y="71" font-family="monospace" font-size="14" letter-spacing="2" fill="#1F5C4A">EEA / PUBLIC TECHNICAL WORKSPACE</text>
+<text x="36" y="143" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="-2" fill="#16181A">Institutional Ethereum.</text>
+<text x="38" y="194" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#5A645E">Specifications, research and experiments.</text>
+<rect x="36" y="225" width="1128" height="1" fill="#DAD6CD"/>
+</svg>
